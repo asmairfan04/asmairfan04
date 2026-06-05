@@ -118,11 +118,6 @@ Developed a hybrid audio classification system combining MFCCs, Mel-spectrograms
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmairfan04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmairfan04&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmairfan04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -147,8 +142,3 @@ Open to research collaborations, ML engineering roles, and AI discussions!
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmairfan04&label=Profile%20Views&color=6E40C9&style=flat" alt="Profile Views" />
-</div>
