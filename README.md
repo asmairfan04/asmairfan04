@@ -105,8 +105,9 @@ Developed a hybrid audio classification system combining MFCCs, Mel-spectrograms
 | [**German Credit Risk Classification**](https://github.com/asmairfan04/German-Credit-Risk) | Perceptron · SMOTENC (mixed data) · feature importance · hyperparameter tuning | scikit-learn · imbalanced-learn |
 | [**Bayesian Network — Car Fault Diagnosis**](https://github.com/asmairfan04/Bayesian-Network-Car-Fault-Diagnosis) | DAG with CPTs · joint probability inference · fanbelt 3× more likely than alternator as root cause | NetworkX · Python |
 | [**Orthoimagery Segmentation**](https://github.com/asmairfan04/OrthoimagerySegmentation) | U-Net + MobileNet · tiled inference on high-res UAS drone imagery · land-cover mapping | PyTorch · segmentation-models-pytorch |
-| [**Sentiment Analysis — Transformers**](https://github.com/asmairfan04/MLprojects) | 89% accuracy · RoBERTa / XLNet / DistilBERT fine-tuning + SVM ensemble | Hugging Face · NLP |
-| [**Deepfake Image Detection**](https://github.com/asmairfan04/DeepLearning) | Transfer learning · InceptionV3, ResNet-50, Xception CNNs | Python · TensorFlow |
+| [**NLP Sentiment Analysis**](https://github.com/asmairfan04/NLP-Sentiment-Analysis) | XLNet · DistilBERT · RoBERTa · SVM (BOW + TF-IDF) · full evaluation suite | PyTorch · TensorFlow · Hugging Face |
+| [**Deepfake Image Detection**](https://github.com/asmairfan04/Deepfake-Image-Detection) | Xception 84.49% · ResNet-50 85.26% · InceptionV3 · transfer learning on 140K images | TensorFlow · Keras |
+| [**Student Performance Analysis**](https://github.com/asmairfan04/Student-Performance-Analysis) | ANOVA · T-tests · Chi-square · PCA · Linear Regression R²=0.733 · Random Forest + SHAP on 6.4K records | scikit-learn · statsmodels · pingouin |
 | [**Sales Forecasting + API**](https://github.com/asmairfan04/ChronoSales) | ARIMA + LSTM time-series · REST API + web UI | Python · Flask · Keras |
 | [**Disaster Tweet Classification**](https://github.com/asmairfan04/DisasterAI) | XGBoost + BERT · real-time event detection | Python · Hugging Face |
 | [**Information Retrieval System**](https://github.com/asmairfan04/InformationRetreival) | Search & ranking algorithms | Python |
