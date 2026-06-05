@@ -109,6 +109,8 @@ Developed a hybrid audio classification system combining MFCCs, Mel-spectrograms
 | [**Sales Forecasting + API**](https://github.com/asmairfan04/ChronoSales) | ARIMA + LSTM time-series · REST API + web UI | Python · Flask · Keras |
 | [**Disaster Tweet Classification**](https://github.com/asmairfan04/DisasterAI) | XGBoost + BERT · real-time event detection | Python · Hugging Face |
 | [**Information Retrieval System**](https://github.com/asmairfan04/InformationRetreival) | Search & ranking algorithms | Python |
+| [**Employee Payroll Management System**](https://github.com/asmairfan04/EPMS) | Full-stack Django app · 2FA (OTP via email + QR code) · role-based access · payroll generation · admin & employee portals | Django · Python · SQLite |
+| [**Attendance System**](https://github.com/asmairfan04/attendance_system) | Real-time face recognition · Haar Cascade + LBPH · automated attendance logging · student registration GUI | Python · OpenCV · Tkinter |
 
 ---
 
