@@ -117,7 +117,7 @@ Developed a hybrid audio classification system combining MFCCs, Mel-spectrograms
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmairfan04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmairfan04&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
