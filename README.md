@@ -103,6 +103,7 @@ Developed a hybrid audio classification system combining MFCCs, Mel-spectrograms
 | [**CelebA Facial Attribute Classification**](https://github.com/asmairfan04/CelebA-FacialAttribute-Classification) | Multi-label VGG16 transfer learning · 4 tasks: gender, eyebrows, eye/mouth geometry · 200K+ images | TensorFlow · Keras |
 | [**Diabetes Prediction**](https://github.com/asmairfan04/Diabetes-Prediction) | Perceptron · SMOTE class balancing · feature selection · SMOTE grid search (200 combos) | scikit-learn · imbalanced-learn |
 | [**German Credit Risk Classification**](https://github.com/asmairfan04/German-Credit-Risk) | Perceptron · SMOTENC (mixed data) · feature importance · hyperparameter tuning | scikit-learn · imbalanced-learn |
+| [**Bayesian Network — Car Fault Diagnosis**](https://github.com/asmairfan04/Bayesian-Network-Car-Fault-Diagnosis) | DAG with CPTs · joint probability inference · fanbelt 3× more likely than alternator as root cause | NetworkX · Python |
 | [**Orthoimagery Segmentation**](https://github.com/asmairfan04/OrthoimagerySegmentation) | U-Net + MobileNet · tiled inference on high-res UAS drone imagery · land-cover mapping | PyTorch · segmentation-models-pytorch |
 | [**Sentiment Analysis — Transformers**](https://github.com/asmairfan04/MLprojects) | 89% accuracy · RoBERTa / XLNet / DistilBERT fine-tuning + SVM ensemble | Hugging Face · NLP |
 | [**Deepfake Image Detection**](https://github.com/asmairfan04/DeepLearning) | Transfer learning · InceptionV3, ResNet-50, Xception CNNs | Python · TensorFlow |
