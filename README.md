@@ -100,9 +100,11 @@ Developed a hybrid audio classification system combining MFCCs, Mel-spectrograms
 |---------|-----------|------|
 | [**Alzheimer's Detection via Speech**](https://github.com/asmairfan04/DisasterAI) | 89.5% accuracy · MFCCs + YAMNet + DNN · **Published at Speech Prosody 2026** | Python · Librosa · TensorFlow |
 | [**CNN Explainability & Bias Detection (XAI)**](https://github.com/asmairfan04/MLprojects) | 95% interpretability · Concept Relevance Propagation · 20K CelebA images · fairness analysis | PyTorch · XAI |
+| [**CelebA Facial Attribute Classification**](https://github.com/asmairfan04/CelebA-FacialAttribute-Classification) | Multi-label VGG16 transfer learning · 4 tasks: gender, eyebrows, eye/mouth geometry · 200K+ images | TensorFlow · Keras |
+| [**Orthoimagery Segmentation**](https://github.com/asmairfan04/OrthoimagerySegmentation) | U-Net + MobileNet · tiled inference on high-res UAS drone imagery · land-cover mapping | PyTorch · segmentation-models-pytorch |
 | [**Sentiment Analysis — Transformers**](https://github.com/asmairfan04/MLprojects) | 89% accuracy · RoBERTa / XLNet / DistilBERT fine-tuning + SVM ensemble | Hugging Face · NLP |
 | [**Deepfake Image Detection**](https://github.com/asmairfan04/DeepLearning) | Transfer learning · InceptionV3, ResNet-50, Xception CNNs | Python · TensorFlow |
-| [**Sales Forecasting + API**](https://github.com/asmairfan04/ChronoSales) | ARIMA + LSTM time-series · model served via REST API | Python · FastAPI |
+| [**Sales Forecasting + API**](https://github.com/asmairfan04/ChronoSales) | ARIMA + LSTM time-series · REST API + web UI | Python · Flask · Keras |
 | [**Disaster Tweet Classification**](https://github.com/asmairfan04/DisasterAI) | XGBoost + BERT · real-time event detection | Python · Hugging Face |
 | [**Information Retrieval System**](https://github.com/asmairfan04/InformationRetreival) | Search & ranking algorithms | Python |
 
